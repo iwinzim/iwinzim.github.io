@@ -60,7 +60,7 @@
     "uniqCompNum": 139,
     "versionPublish": "5.3.5",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "favicon": false,
     "canonical-url": false,
     "robotsSwitcher": false,
